@@ -19,3 +19,6 @@ It is a weather app made to practice API fetching.
 - Give the temperature
 - Shows the state of climate
 - Tells temperature in Farenheit and Celcius
+
+## You can watch it live here:
+https://devnoorfatima.github.io/Projects/weather-app/
